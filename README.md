@@ -18,26 +18,11 @@ The purpose of this project was to develop an efficacy rating for tournament see
 
 ![Results Table](https://github.com/njones738/An-Efficacy-Rating-for-March-Madness-Tournament-Seeding/blob/main/data/results%20table.png)
 
-## Folder structure
-
-```
-- readme.md
-- scripts
----- readme.md
----- 
-- data
----- readme.md
----- 
-- documents
----- readme.md
----- 
-```
-
 ## Deliverables
 
-* TBD     
-* TBD     
-* TBD     
+* Nathalie.Jones.Presentation_SESGUG2023_20231023.pdf
+* Nathalie.Jones.Presentation_SESGUG2023_20231023.pptx
+* SESUG2023_Paper_178_Final_PDF.pdf
 
 ## Data sources
 

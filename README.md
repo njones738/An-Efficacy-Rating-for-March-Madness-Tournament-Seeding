@@ -15,8 +15,8 @@ The purpose of this project was to develop an efficacy rating for tournament see
 * Python
 
 ### __Results__    
-* TBD  
-* TBD  
+
+![Results Table](https://github.com/njones738/An-Efficacy-Rating-for-March-Madness-Tournament-Seeding/blob/main/data/results%20table.png)
 
 ## Folder structure
 

@@ -1,4 +1,4 @@
-# PROJECT TITLE
+# An Efficacy Rating for March Madness Tournament Seeding
 
 ### __ABSTRACT__
 In 1979 the NCAA men's basketball tournament (affectionately known as March Madness) began seeding teams with ranks 1 through 10 into four regional categories. Prior to this time, no ranking of teams was utilized in the tournament. In this paper we present a metric to measure the efficacy of team seedings by the selection committee as compared to tournament results. Utilizing this metric, we compute the efficacy of seeding for both men’s and women’s teams from 64 team tournaments. We then theorize and correlate potential influencing factors. 
